@@ -1,2 +1,2 @@
 # Stepik
-Selenium lessons
+SELENIUM  LESSONS
